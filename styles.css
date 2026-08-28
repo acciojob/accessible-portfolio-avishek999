@@ -1,2 +1,19 @@
+nav{
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+.nav_name{
+font-size:28px;
+}
+img{
+height:100px;
+width:100px;
+border-radius:100px;
+margin-top:40px;
+}
 
-/* Your CSS Code here. */
+.nav_points{
+	display:flex;
+	gap:10px;
+}
